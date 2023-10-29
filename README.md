@@ -1,4 +1,4 @@
-JavaScript Stuff DB
+JavaScript#Stuff DB
 ---
 
 This is the data for the lists on [JavaScript Stuff](https://www.javascriptstuff.com/).
@@ -19,5 +19,6 @@ Contributing
 
 To add your starter project, tutorial, etc.:
 
-* find the appropriate category in [data/source/](data/source)
-* submit a pull request with your project URL to the `data/source/<x>.js` file
+! find the appropriate category in [data/source/](data/source)
+# submit a pull request with your project URL to the `data/source/<x>.js` file
+ 
